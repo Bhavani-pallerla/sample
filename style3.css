@@ -1,0 +1,24 @@
+/* contact page strts here */
+.contact{
+    /* display: flex; */
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-image: url(../images/contactfemale.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding-left:10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    box-shadow: 1px 2px 3px lightblue;
+    background-color: lavender;
+
+}
+.submit{
+    background-color: lightseagreen;
+    margin-left: 80px;
+    border-radius: 10px;
+}
